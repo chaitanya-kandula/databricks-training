@@ -10,10 +10,11 @@ This repository is created to track my daily learning progress and hands-on prac
 databricks-training/
 │
 ├── Week1/
-│   └── DAY1/
+│   ├── DAY1/
+│   └── DAY2/
 │
 └── README.md
-````
+```
 
 ---
 
@@ -22,6 +23,7 @@ databricks-training/
 | 📅 Week | 📘 Day | 📌 Status   |
 | ------- | ------ | ----------- |
 | Week 1  | Day 1  | ✅ Completed |
+| Week 1  | Day 2  | ✅ Completed |
 
 ---
 
@@ -45,6 +47,18 @@ Each folder contains:
 
 ---
 
+## 📚 Day 2 Learning Highlights
+
+* Practiced SQL fundamentals
+* Worked with SELECT and WHERE clauses
+* Used GROUP BY and HAVING
+* Performed aggregate operations
+* Practiced DISTINCT and LIMIT
+* Learned logical and comparison operators
+* Used IN, NOT IN, BETWEEN, and LIKE operators
+
+---
+
 ## 🎯 Purpose
 
 * 📚 Track daily learning progress
@@ -56,6 +70,5 @@ Each folder contains:
 
 ## 🙌 Author
 
-**Chaitanya Kandula**
+**Chaitanya Kandula**  
 🚀 Aspiring Data Engineer
-

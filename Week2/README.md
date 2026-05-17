@@ -155,6 +155,23 @@ Learned string manipulation techniques for cleaning and transforming data.
 - `coalesce()` returns the first non-null value.
 
 ---
+### 📌Day 5. Null Functions
+
+Functions covered:
+
+- ifnull()
+- coalesce()
+- nullif()
+- is null
+- is not null
+
+Key understanding:
+
+- Null functions help handle missing values.
+- They prevent errors and improve data quality.
+- Useful for replacing or checking null values in datasets.
+
+---
 
 ## 🛠 Skills Strengthened
 
@@ -164,6 +181,7 @@ Learned string manipulation techniques for cleaning and transforming data.
 - Numeric Functions
 - Date Functions
 - String Functions
+- Null Functions
 - Data Cleaning Techniques
 - Problem Solving
 

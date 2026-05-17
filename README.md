@@ -1,6 +1,10 @@
 # 🚀 Databricks Training
 
-This repository is created to track my daily learning progress and hands-on practice during Databricks Data Engineering training.
+Welcome to my Databricks Training repository.
+
+This repository documents my learning journey and hands-on practice completed during Data Engineering training using Databricks. It includes SQL concepts, problem-solving exercises, practical implementations, and weekly progress tracking.
+
+The purpose of this repository is to strengthen SQL fundamentals, improve analytical thinking, and build practical Data Engineering skills through continuous learning.
 
 ---
 
@@ -12,7 +16,16 @@ databricks-training/
 ├── Week1/
 │   ├── DAY1/
 │   ├── DAY2/
-│   └── DAY3/
+│   ├── DAY3/
+│   └── README.md
+│
+├── Week2/
+│   ├── DAY1/
+│   ├── DAY2/
+│   ├── DAY3/
+│   ├── DAY4/
+│   ├── DAY5/
+│   └── README.md
 │
 └── README.md
 ```
@@ -21,66 +34,61 @@ databricks-training/
 
 ## 📈 Progress Tracker
 
-| 📅 Week | 📘 Day | 📌 Status   |
-| ------- | ------ | ----------- |
-| Week 1  | Day 1  | ✅ Completed |
-| Week 1  | Day 2  | ✅ Completed |
-| Week 1  | Day 3  | ✅ Completed |
+| Week | Learning Focus | Status |
+|-------|----------------|---------|
+| Week 1 | SQL Fundamentals and Query Practice | ✅ Completed |
+| Week 2 | SQL Functions, Joins, and Hands-on Practice | ✅ Completed |
 
 ---
 
-## 📖 About Repository
+## 📚 Learning Covered So Far
 
-Each folder contains:
+### Week 1
+- SQL Fundamentals
+- Filtering and Sorting
+- Aggregate Functions
+- Group By and Having
+- Query Practice
 
-* 📝 Practice Files
-* 💻 SQL Queries
-* 📚 Solutions
-* 📄 Daily README with detailed explanation
+### Week 2
+- SQL Join Operations
+- Number Functions
+- Date & Timestamp Functions
+- String Functions
+- NULL Functions
+
+---
+
+## 📖 Weekly Details
+
+Each week contains:
+
+- 📝 Practice files
+- 💻 SQL queries
+- 📚 Solutions
+- 📄 Week-wise documentation
+- 🚀 Hands-on exercises
+
+For detailed explanations and day-wise learning progress, refer to the README inside each week's folder.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-* ⚡ Databricks
-* 🗄️ SQL
-* 🔧 Git
-* 🌐 GitHub
+- ⚡ Databricks
+- 🗄️ SQL
+- 🔧 Git
+- 🌐 GitHub
 
 ---
 
-## 📚 Day 2 Learning Highlights
+## 🎯 Repository Purpose
 
-* Practiced SQL fundamentals
-* Worked with SELECT and WHERE clauses
-* Used GROUP BY and HAVING
-* Performed aggregate operations
-* Practiced DISTINCT and LIMIT
-* Learned logical and comparison operators
-* Used IN, NOT IN, BETWEEN, and LIKE operators
-
----
-
-## 🚀 Day 3 Learning Highlights
-
-* Practiced INNER JOIN and LEFT JOIN
-* Worked with multiple table relationships
-* Solved aggregate and analytical SQL problems
-* Used Subqueries for advanced filtering
-* Practiced Window Functions
-* Implemented ROW_NUMBER(), RANK(), and DENSE_RANK()
-* Worked with LEAD(), LAG(), and NTILE()
-* Generated ranking and cumulative reports
-* Solved real-time SQL practice questions
-
----
-
-## 🎯 Purpose
-
-* 📚 Track daily learning progress
-* 💡 Practice Data Engineering concepts
-* 🚀 Build strong SQL fundamentals
-* 📂 Maintain organized training work
+- Track learning progress
+- Practice Data Engineering concepts
+- Improve SQL problem-solving skills
+- Build practical hands-on experience
+- Maintain organized learning documentation
 
 ---
 
